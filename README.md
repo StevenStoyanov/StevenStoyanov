@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Steven Stoyanov.
-- 👀 I’m interested in programing.
-- 🌱 I’m currently learning JavaScript, but i was learning Python 1 year ago, and soon CSS.
-- 💞️ I’m looking to collaboration - still no.
-- 😄 Pronouns: Still dont have.
-- ⚡ Fun fact: Python have 2 meanings.
-- 1: Its an snake
-- 2: Its an programing languange!
-- 
+
